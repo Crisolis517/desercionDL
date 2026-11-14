@@ -4,6 +4,6 @@ Dashboard del Proyecto 2 (Redes Neuronales y Deep Learning, Maestría en Estadí
 
 ```r
 install.packages("remotes")
-remotes::install_github("USUARIO_GITHUB/desercionDL")
+remotes::install_github("Crisolis517/desercionDL")
 desercionDL::lanzar_app()
 ```
