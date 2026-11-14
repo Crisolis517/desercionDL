@@ -3,7 +3,7 @@ Type: Package
 Title: Redes Densas y Modelos Mixtos para Predecir Desercion Estudiantil
 Version: 0.1.0
 Authors@R: c(
-    person("Shirley", "Adriano", role = c("aut", "cre"), email = "correo@ejemplo.com"),
+    person("Shirley", "Adriano", role = c("aut", "cre"), email = "crisolis517@gmail.com"),
     person("Lissette", "Adriano", role = "aut"),
     person("Alexis", "Rivera", role = "aut"),
     person("Cristian", "Solis", role = "aut"))
