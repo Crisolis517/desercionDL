@@ -1,0 +1,37 @@
+"Momento","Comparación","Métrica","Diferencia media","Gana el 1.º","t","p"
+"Al ingreso","Modelo mixto − MLP denso","F1 macro",0.0020304500732341,5,0.241294623937418,0.814734328396062
+"Al ingreso","Modelo mixto − MLP denso","Pérdida logarítmica",-0.00710888476947709,5,-0.554892332262961,0.592489178992275
+"Al ingreso","MLP denso − Regresión logística","F1 macro",0.00613858470955069,6,0.755802601099893,0.469086348372591
+"Al ingreso","MLP denso − Regresión logística","Pérdida logarítmica",-0.00971762566824855,8,-0.572900409526529,0.580741060903435
+"Al ingreso","Modelo mixto − Regresión logística","F1 macro",0.00816903478278479,8,0.960422713342063,0.361932898767069
+"Al ingreso","Modelo mixto − Regresión logística","Pérdida logarítmica",-0.0168265104377256,6,-1.22782596607133,0.250655165420225
+"Al ingreso","Random Forest − Regresión logística","F1 macro",0.014480183330035,8,1.37549949888347,0.202240066938783
+"Al ingreso","Random Forest − Regresión logística","Pérdida logarítmica",-0.0408714182847394,10,-4.8952518285037,0.000853218444656639
+"Al ingreso","MLP denso − Random Forest","F1 macro",-0.00834159862048427,1,-2.10042363387138,0.0650735300384782
+"Al ingreso","MLP denso − Random Forest","Pérdida logarítmica",0.0311537926164909,0,2.21852487808243,0.0536931530090988
+"Al ingreso","Modelo mixto − Random Forest","F1 macro",-0.00631114854725017,4,-0.628511822064802,0.545286736963636
+"Al ingreso","Modelo mixto − Random Forest","Pérdida logarítmica",0.0240449078470138,1,1.77691311104172,0.109307638410269
+"Fin del 1.er semestre","Modelo mixto − MLP denso","F1 macro",0.00151256461888758,4,0.19763767481361,0.847720232396297
+"Fin del 1.er semestre","Modelo mixto − MLP denso","Pérdida logarítmica",-0.00106558143174699,7,-0.0765313949323781,0.940670639673244
+"Fin del 1.er semestre","MLP denso − Regresión logística","F1 macro",0.00886535892306088,7,1.34838364821298,0.210485687514767
+"Fin del 1.er semestre","MLP denso − Regresión logística","Pérdida logarítmica",-0.028642798287211,10,-2.5999441020667,0.0287408618465595
+"Fin del 1.er semestre","Modelo mixto − Regresión logística","F1 macro",0.0103779235419485,7,1.1360541771472,0.285279041661113
+"Fin del 1.er semestre","Modelo mixto − Regresión logística","Pérdida logarítmica",-0.029708379718958,9,-2.21946853941828,0.0536105268002211
+"Fin del 1.er semestre","Random Forest − Regresión logística","F1 macro",0.0156203721047517,9,2.26746085754791,0.049568400790918
+"Fin del 1.er semestre","Random Forest − Regresión logística","Pérdida logarítmica",-0.0257351032338378,9,-1.82302982916683,0.101613654240864
+"Fin del 1.er semestre","MLP denso − Random Forest","F1 macro",-0.00675501318169081,3,-1.02398954790825,0.332574552183237
+"Fin del 1.er semestre","MLP denso − Random Forest","Pérdida logarítmica",-0.0029076950533732,5,-0.228787042483719,0.824148518219749
+"Fin del 1.er semestre","Modelo mixto − Random Forest","F1 macro",-0.00524244856280323,5,-0.668008453560902,0.520889010473581
+"Fin del 1.er semestre","Modelo mixto − Random Forest","Pérdida logarítmica",-0.00397327648512019,6,-0.298889624664134,0.771810759180115
+"Fin del 2.º semestre","Modelo mixto − MLP denso","F1 macro",0.00213643506202843,6,0.314879150693454,0.760031249385674
+"Fin del 2.º semestre","Modelo mixto − MLP denso","Pérdida logarítmica",-0.000217063583759203,4,-0.0184456866279927,0.985685761247883
+"Fin del 2.º semestre","MLP denso − Regresión logística","F1 macro",0.009374907401835,6,1.10814146096245,0.296534803031568
+"Fin del 2.º semestre","MLP denso − Regresión logística","Pérdida logarítmica",-0.0298313146347707,10,-1.90383179441491,0.0893389445041669
+"Fin del 2.º semestre","Modelo mixto − Regresión logística","F1 macro",0.0115113424638634,9,1.59855297276488,0.144384339412701
+"Fin del 2.º semestre","Modelo mixto − Regresión logística","Pérdida logarítmica",-0.0300483782185299,8,-1.88176108819314,0.0925458120539493
+"Fin del 2.º semestre","Random Forest − Regresión logística","F1 macro",0.0219419281971026,10,3.02638756872251,0.0143302760645127
+"Fin del 2.º semestre","Random Forest − Regresión logística","Pérdida logarítmica",-0.036570965006234,10,-3.74000849216701,0.0046254319718772
+"Fin del 2.º semestre","MLP denso − Random Forest","F1 macro",-0.0125670207952676,3,-1.54791188170848,0.156049903381395
+"Fin del 2.º semestre","MLP denso − Random Forest","Pérdida logarítmica",0.00673965037146327,2,0.567012567526212,0.584568072086842
+"Fin del 2.º semestre","Modelo mixto − Random Forest","F1 macro",-0.0104305857332392,0,-3.54798241520403,0.00623557776862665
+"Fin del 2.º semestre","Modelo mixto − Random Forest","Pérdida logarítmica",0.00652258678770407,3,0.4663768568403,0.652028094844959

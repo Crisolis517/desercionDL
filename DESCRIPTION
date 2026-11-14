@@ -1,0 +1,18 @@
+Package: desercionDL
+Type: Package
+Title: Redes Densas y Modelos Mixtos para Predecir Desercion Estudiantil
+Version: 0.1.0
+Authors@R: c(
+    person("Shirley", "Adriano", role = c("aut", "cre"), email = "correo@ejemplo.com"),
+    person("Lissette", "Adriano", role = "aut"),
+    person("Alexis", "Rivera", role = "aut"),
+    person("Cristian", "Solis", role = "aut"))
+Description: Dashboard Shiny que compara una linea base, regresion logistica
+    multinomial, Ridge, Random Forest, un perceptron multicapa y un modelo mixto
+    con embeddings para clasificar estudiantes en desercion, matricula continuada
+    o graduacion (Realinho et al., 2021, <doi:10.24432/C5MC89>). Las redes se
+    predicen en R a partir de pesos entrenados con keras3, sin TensorFlow.
+License: GPL-3
+Encoding: UTF-8
+Depends: R (>= 4.1)
+Imports: shiny, bslib, ggplot2, nnet, glmnet, randomForest, pROC
